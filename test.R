@@ -1,2 +1,1 @@
-#check if it updates pls
-yes
+#github is my fav
