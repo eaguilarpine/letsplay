@@ -1,3 +1,1 @@
-get_yesterday <- fucntion(){
-  return(Sys.Date()-1)
-}
+#check if it updates pls
